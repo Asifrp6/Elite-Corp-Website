@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,800;1,500&display=swap');
+.body{
+	margin: 0;
+	padding: 0;
+
+}
+.up-nav-p{
+	background: #f9f8f3;
+	margin: 0;
+	color: #bea44d;
+}
+
+nav{
+	background: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link li a:hover{
+	color: #bea44d; 
+    font-size: 14px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    font-size: 14px;
+    color: black;
+}
+.navbar-light .navbar-nav .nav-link{ 
+    border-bottom: 1px solid transparent;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #bea44d;    
+}
+
+span{
+	
+	color: #bea44d;
+}
+
+.carousel .carousel-indicators button {
+    width: 10px;
+   height: 10px;
+   border-radius: 100%;
+ }
+
+ .text-start {
+ 	line-height: px;
+ 	font-family: 'Poppins', sans-serif;
+ 	line-height: 60px;
+
+ }
+
+.color-head {
+	background: white;
+	color: #bea44d;
+}
+
+.visually-hidden{
+	color: black;
+}
+
+.icon-text-design{
+ 	font-size: 15px;
+	color: white;
+	font-weight: 600;
+	display: inline-block;
+	overflow: hidden;
+}
+
+ .icon-design {
+ 	font-size: 40px;
+ 	
+ }
+
+ .header-sizing{
+
+	padding: 20% 0;
+}
+
+.icon-design-FW{ 	
+ 	font-size: 30px;
+ 	color: #bea44d;
+ }
+
+ .icon-design-div{
+	margin-left: 90px;
+ 	display: flex;
+ 	justify-content: center;
+ 	align-items: center;
+ 	height: 80px;
+ 	width: 80px;
+ 	border: 1px solid #bea44d;
+ 	border-radius: 50%;	
+ }
+ 
+ .icon_after-head{
+ 	margin-top:7% ;
+ }
+
+.silder-div{
+	display: inline-block;
+	position: relative;
+	margin:0 16% ;
+	padding:0 10%;
+	overflow: hidden;
+	width: 70%;
+	height: 50%;
+}
+
+ a{
+ 	color: white;
+ 	text-decoration: none;
+ }
+
+ .text-color p{
+ 	color: black;
+ }
+
+.sildeboy-img{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.for-a-col a{
+	color: black;
+}
+
+.contact-sec{
+	background: #f9edd5;
+	padding: 10% 0;
+}
+
+.cont-div{
+	color: #bea44d; !importent
+
+}
+
+.btn{
+	border: solid 2px;
+	background: #bea44d; 
+	border:2px solid #bea44d;
+	color: white;
+}
+
+.btn:hover{
+	background: white;
+	border:2px solid #bea44d;
+}
+
+footer{
+	align-items: center;
+	background: #bea44d;
+	padding: 1%;
+}
+
+footer i{
+	text-align: right;
+}
+
+.font-weight-bold a{
+	font: 500;
+}
+
+.i-div{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 40px;
+	width: 40px;
+	border-radius: 20%;
+	border: 2px solid  #bea44d;
+}
+
+.i-div:hover{
+	color: white;
+	background: #bea44d;
+}
